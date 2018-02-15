@@ -696,8 +696,8 @@ namespace ISpy_Reports
                     //Set machine type column to machine type variable value
                     row["Machine Type"] = machineModel;
 
-                    //try
-                    //{
+                    try
+                    {
                         //foreach loop for each file in dex file names list
                         foreach (string FileName in DexNames)
                         {
@@ -1058,12 +1058,12 @@ namespace ISpy_Reports
                                 row[sevenDays.DayOfWeek.ToString() + "|" + sevenDays.ToString("dd-MMM-yy")] = dayEight;
                             }
                         }
-                    //}
-                    //catch (Exception fileFailure)
-                    //{
+                    }
+                    catch (Exception fileFailure)
+                    {
                         //Catch any errors and add to error log list
-                        //Error.Add(fileFailure.ToString() + "_" + currentMachineNumber + " - " + currentDataFile + " - " + currentRecordDate);
-                    //}
+                        Error.Add(fileFailure.ToString() + "_" + currentMachineNumber + " - " + currentDataFile + " - " + currentRecordDate);
+                    }
                 }
                 catch (Exception batchFailure)
                 {
