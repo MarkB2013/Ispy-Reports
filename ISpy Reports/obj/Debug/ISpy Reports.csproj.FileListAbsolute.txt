@@ -1,0 +1,22 @@
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\ISpy Reports.exe.config
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\ISpy Reports.exe
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\ISpy Reports.pdb
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\System.IO.Packaging.dll
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy Reports.csprojResolveAssemblyReference.cache
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy_Reports.Properties.Resources.resources
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy Reports.csproj.GenerateResource.Cache
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy Reports.csproj.CoreCompileInputs.cache
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy Reports.exe
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy Reports.pdb
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\ISpy Reports.exe.manifest
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\bin\Debug\ISpy Reports.application
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy Reports.exe.manifest
+C:\Users\Mark.BDS\source\repos\ISpy Reports\ISpy Reports\obj\Debug\ISpy Reports.application
+C:\Users\Mark.BDS\Desktop\Software Builds\ISpy Reports\ISpy Reports.exe.config
+C:\Users\Mark.BDS\Desktop\Software Builds\ISpy Reports\ISpy Reports.exe.manifest
+C:\Users\Mark.BDS\Desktop\Software Builds\ISpy Reports\ISpy Reports.application
+C:\Users\Mark.BDS\Desktop\Software Builds\ISpy Reports\ISpy Reports.exe
+C:\Users\Mark.BDS\Desktop\Software Builds\ISpy Reports\ISpy Reports.pdb

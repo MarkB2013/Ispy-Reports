@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ISpy_Reports.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DexFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEX\Machine Database\</Value>
+    </Setting>
+    <Setting Name="ExcelFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Excel Files\Input\Input.xml</Value>
+    </Setting>
+    <Setting Name="ErrorLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Error Logs\ISpy Report Logs\</Value>
+    </Setting>
+    <Setting Name="Output" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Reports\ISpy General\</Value>
+    </Setting>
+    <Setting Name="MachineDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEX\Machine Archive\</Value>
+    </Setting>
+    <Setting Name="OldReports" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Reports\Old\</Value>
+    </Setting>
+    <Setting Name="Workbench_Directory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter workbench directory here(Same as DEXGet workbench directory)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
