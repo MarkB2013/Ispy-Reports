@@ -1,0 +1,2 @@
+# Ispy-Reports
+Windows Form application that builds an excel sheet with sales data retrieved from vending machine audit data files. It is intended to be used in conjunction with DEXGet, a Windows Form application that downloads vending machine audit data files from an SFTP server and combines them into single files turning each file into a line in one file for each month, reducing quantity of files stored in the database and allowing for more advanced data parsing
